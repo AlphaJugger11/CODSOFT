@@ -5,7 +5,7 @@ void run()
 {
     srand(time(0));
     int randnum = rand() % 1000;
-    cout << randnum;
+    // cout << randnum;
     int usernum = 0;
     do 
     {
